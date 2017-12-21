@@ -1,4 +1,4 @@
-package com.retailer;
+package com.incredibl3.retailer;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "retailer";
+        return "Retailer";
     }
 }
