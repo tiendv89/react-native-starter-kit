@@ -1,4 +1,4 @@
-package com.incredibl3.retailer;
+package com.incredibl3.android.retailer;
 
 import com.facebook.react.ReactActivity;
 
